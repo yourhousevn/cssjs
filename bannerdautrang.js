@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/><br/>Bán Căn Hộ HQC Bình Trưng Đông</a>. Liên Hệ Chủ Đầu Tư Dự Án. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://your-house.vn' target='_blank'><img src='https://3.bp.blogspot.com/-Wk7FZLLdFQ4/WmAmSpvnXCI/AAAAAAAAC4M/_OjxayNmVIkfdJv0UC83UNT0IEzrWNwQQCLcBGAs/s320/500.jpg' width='500px'/><br/>Bán Căn Hộ HQC Bình Trưng Đông</a>. Liên Hệ Chủ Đầu Tư Dự Án. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
